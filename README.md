@@ -4,7 +4,7 @@
 [![coverage](https://img.shields.io/coveralls/github/AndreasPizsa/setup-browser-env.svg?style=flat-square)](https://coveralls.io/github/AndreasPizsa/setup-browser-env)
 ![license](https://img.shields.io/github/license/AndreasPizsa/setup-browser-env.svg?style=flat-square)
 [![version](https://img.shields.io/npm/v/setup-browser-env.svg?style=flat-square)](https://www.npmjs.com/package/setup-browser-env)
-[![downloads](https://img.shields.io/npm/dm/setup-browser-env.svg?style=flat-square)](https://www.npmjs.com/package/setup-browser-env)
+[![downloads](https://img.shields.io/npm/dm/setup-browser-env.svg?style=flat-square)](https://www.npmjs.com/package/setup-browser-env) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/setup-browser-env.svg)](https://greenkeeper.io/)
 
 > Simplified browser testing in your node test suite.
 
